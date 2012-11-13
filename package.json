@@ -1,7 +1,7 @@
 {
     "name": "lawyer",
     "description": "Does various helper jobs for legal things like licenses",
-    "version": "0.8.0",
+    "version": "0.1.0",
     "repository": "git://github.com/meaku/lawyer",
     "author": "Michael Jaser <michael.jaser@peerigon.com>",
     "main": "./lib/index.js",
